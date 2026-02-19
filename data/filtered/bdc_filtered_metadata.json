@@ -1,0 +1,14 @@
+{
+  "corpus": "BDC",
+  "filtering": {
+    "method": "Overlap Coefficient (Szymkiewicz-Simpson)",
+    "threshold": 0.75,
+    "description": "Filters chunks where overlap ≥75% with any Bible verse",
+    "formula": "|chunk ∩ verse| / min(|chunk|, |verse|)",
+    "total_chunks": 19466,
+    "biblical_chunks": 6736,
+    "retained_chunks": 12730,
+    "retention_rate": 0.6539607520805507,
+    "biblical_percentage": 34.60392479194493
+  }
+}
