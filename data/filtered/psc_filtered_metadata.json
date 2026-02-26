@@ -2,13 +2,13 @@
   "corpus": "PSC",
   "filtering": {
     "method": "Overlap Coefficient (Szymkiewicz-Simpson)",
-    "threshold": 0.75,
-    "description": "Filters chunks where overlap ≥75% with any Bible verse",
+    "threshold": 0.95,
+    "description": "Filters chunks where overlap ≥95% with any Bible verse",
     "formula": "|chunk ∩ verse| / min(|chunk|, |verse|)",
     "total_chunks": 46408,
-    "biblical_chunks": 10519,
-    "retained_chunks": 35889,
-    "retention_rate": 0.7733364937079814,
-    "biblical_percentage": 22.66635062920186
+    "biblical_chunks": 980,
+    "retained_chunks": 45428,
+    "retention_rate": 0.9788829512153077,
+    "biblical_percentage": 2.1117048784692294
   }
 }
