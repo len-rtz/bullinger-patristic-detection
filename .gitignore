@@ -1,0 +1,3 @@
+# Ignore retrieval and embeddings directories
+**/retrieval/
+**/embeddings/
