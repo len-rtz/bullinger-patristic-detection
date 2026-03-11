@@ -1,3 +1,5 @@
 # Ignore retrieval and embeddings directories
 **/retrieval/
 **/embeddings/
+**/passim_filter
+.DS_Store

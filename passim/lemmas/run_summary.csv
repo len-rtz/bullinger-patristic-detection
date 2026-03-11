@@ -1,0 +1,6 @@
+label,n,min_match,gap,min_align,bdc_matched
+n3_mm2_g50_a5,3,2,50,5,16
+n4_mm2_g50_a5,4,2,50,5,793
+n4_mm3_g50_a8,4,3,50,8,78
+n5_mm2_g50_a5,5,2,50,5,5705
+n5_mm3_g50_a8,5,3,50,8,600
