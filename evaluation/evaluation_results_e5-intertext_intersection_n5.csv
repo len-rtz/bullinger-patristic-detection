@@ -1,0 +1,4 @@
+config,k,Overall_Recall,Overall_MRR,Explicit_Recall,Explicit_MRR,Implicit_Recall,Implicit_MRR
+baseline,5,0.33,0.2312,0.62,0.4473,0.04,0.015
+baseline,10,0.38,0.2375,0.7,0.4575,0.06,0.0175
+baseline,20,0.4,0.2386,0.72,0.4586,0.08,0.0186

@@ -2,4 +2,5 @@
 **/retrieval/
 **/embeddings/
 **/passim_filter
+**/data_BIG
 .DS_Store
